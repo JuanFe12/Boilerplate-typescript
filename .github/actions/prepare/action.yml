@@ -7,5 +7,5 @@ runs:
     - uses: actions/setup-nodev3
       with:
         node-version: "18"
-    - run: npm install --frozen-lockfile
+    - run: npm install
       shell: bash
