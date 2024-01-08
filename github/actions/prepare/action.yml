@@ -1,0 +1,11 @@
+name: Prepare
+description: Prepares the repo for typical CI job
+
+runs:
+  using: "composite"
+  steps:
+    - uses: actions/setup-nodev3
+      with:
+        node-version: "18"
+    - run: npm install --frozen-lockfile
+      shell: bash
