@@ -3,11 +3,18 @@
 		"browser": true,
 		"es2021": true
 	},
-	"extends": ["eslint:recommended", "plugin:@typescript-eslint/recommended"],
+	"extends": [
+		"eslint:recommended",
+		"plugin:@typescript-eslint/recommended",
+		"plugin:@typescript-eslint/recommend-requiring-type-checking"
+	],
 	"parser": "@typescript-eslint/parser",
 	"parserOptions": {
-		"ecmaVersion": "latest"
+		"ecmaVersion": "latest",
+		"tsconfigRootDir": "__dirname",
+		"project": ["./tsconfig.json"]
 	},
+	"root": true,
 	"plugins": ["@typescript-eslint"],
 	"rules": {},
 	"overrides": [

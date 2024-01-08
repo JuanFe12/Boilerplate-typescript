@@ -33,7 +33,8 @@ Small summary of the kind of testing that exists in this repository
 Here is how you run linting test
 
 ```
-Special commands so you don't feel lost in doing so
+npm run lint
+
 ```
 
 ### Unit Tests
@@ -41,15 +42,8 @@ Special commands so you don't feel lost in doing so
 Here is how you run unit tests :-P
 
 ```
-Yes, more commands, this is the real deal now
-```
+npm run test
 
-### Integration Tests
-
-Here is how you run unit tests :-P
-
-```
-Yes, more commands, this is the real deal now
 ```
 
 ## How To Deploy
