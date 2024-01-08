@@ -6,7 +6,7 @@
 
 
 ## Getting Started
-This is a template for your typescript projects with express, helmet, jest and husky
+This is a template for your typescript projects with express, helmet, jest
 
 ### Prerequisites
 
@@ -45,14 +45,6 @@ Yes, more commands, this is the real deal now
 ```
 
 ### Integration Tests
-
-Here is how you run unit tests :-P 
-
-```
-Yes, more commands, this is the real deal now
-```
-
-### E2E Tests
 
 Here is how you run unit tests :-P 
 

@@ -1,7 +1,7 @@
 import express from 'express'
 import config from './config/index'
 
-async function startServer(){
+export async function startServer(){
  const app = express();
 
  (await import('./loaders')).default({app})
