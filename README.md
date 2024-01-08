@@ -1,11 +1,11 @@
 # Boilerplate Typscript
 
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
- 
+
 > This is a way to start faster your projects and skip the configurations
 
-
 ## Getting Started
+
 This is a template for your typescript projects with express, helmet, jest
 
 ### Prerequisites
@@ -26,19 +26,19 @@ npm install
 
 ## Running Tests
 
-Small summary of the kind of testing that exists in this repository 
+Small summary of the kind of testing that exists in this repository
 
 ### Linter
 
 Here is how you run linting test
 
 ```
-Special commands so you don't feel lost in doing so 
+Special commands so you don't feel lost in doing so
 ```
 
 ### Unit Tests
 
-Here is how you run unit tests :-P 
+Here is how you run unit tests :-P
 
 ```
 Yes, more commands, this is the real deal now
@@ -46,7 +46,7 @@ Yes, more commands, this is the real deal now
 
 ### Integration Tests
 
-Here is how you run unit tests :-P 
+Here is how you run unit tests :-P
 
 ```
 Yes, more commands, this is the real deal now
@@ -60,8 +60,7 @@ Make sure to write notes about deployment, is it just merging to master to trigg
 
 ## Code Owners
 
-* *Yep I did the whole project, no one helped. Sigh.. I'm joking it was a lot of reasearch* - [Here is my profile](https://github.com/JuanFe)
-
+- _Yep I did the whole project, no one helped. Sigh.. I'm joking it was a lot of reasearch_ - [Here is my profile](https://github.com/JuanFe)
 
 ## License
 
