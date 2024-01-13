@@ -1,0 +1,12 @@
+{
+	"swagger": "2.0",
+	"info": {
+		"version": "1.0.0",
+		"title": "Swagger documentation bolerplate",
+		"description": "easy settings for you api documentation",
+		"license": {
+			"name": "MIT",
+			"url": "https://opensource.org/license/MIT"
+		}
+	}
+}
